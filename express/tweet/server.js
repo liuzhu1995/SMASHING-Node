@@ -17,10 +17,12 @@ app.set('view engine', 'html');
 
 //路由
 app.get('/', function (req, res) {
+  console.log(0);
   res.render('index', ({ title: 'Twitter app.' }));
 });
 
 app.get('/search', function (req, res, next) {
+  console.log(req.query, 1);
   search(req.query.postId, function (err, tween) {
     if(err) {
       return next(err);

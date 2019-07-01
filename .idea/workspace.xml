@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3482759-1d86-4c56-804d-2a656a90fb2d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware-connect/login/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware-connect/login/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware-connect/login/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/middleware-connect/login/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware-connect/login/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/middleware-connect/login/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware-connect/login/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/middleware-connect/login/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware-connect/my-website/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/middleware-connect/my-website/website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express/tweet/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/express/tweet/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express/tweet/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/express/tweet/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express/tweet/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/express/tweet/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express/tweet/views/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/express/tweet/views/search.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/express/tweet/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="171">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/express/tweet/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="34" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -33,16 +40,7 @@
         <entry file="file://$PROJECT_DIR$/express/tweet/views/search.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/express/tweet/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/express/tweet/search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="95">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -104,10 +102,10 @@
         <option value="$PROJECT_DIR$/express/tweet/views/index.js" />
         <option value="$PROJECT_DIR$/express/tweet/views/index" />
         <option value="$PROJECT_DIR$/express/tweet/views/search" />
-        <option value="$PROJECT_DIR$/express/tweet/views/search.html" />
         <option value="$PROJECT_DIR$/express/tweet/views/main" />
         <option value="$PROJECT_DIR$/express/tweet/views/index.html" />
         <option value="$PROJECT_DIR$/express/tweet/server.js" />
+        <option value="$PROJECT_DIR$/express/tweet/views/search.html" />
         <option value="$PROJECT_DIR$/express/tweet/search.js" />
       </list>
     </option>
@@ -223,17 +221,18 @@
       <updated>1561727829779</updated>
       <workItem from="1561727832342" duration="31125000" />
       <workItem from="1561953113927" duration="301000" />
-      <workItem from="1561953430085" duration="13725000" />
+      <workItem from="1561953430085" duration="15208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45151000" />
+    <option name="totallyTimeSpent" value="46634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1096" height="1896" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24952741" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24952741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -245,7 +244,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21452895" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.45459706" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -460,31 +459,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/express/tweet/views/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/express/tweet/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="171">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/express/tweet/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="551">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/express/tweet/views/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/express/tweet/search.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
