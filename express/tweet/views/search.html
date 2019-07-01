@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<h1>Tweet results for <%= search %></h1>
+<% if(results.length) { %>
+<ul>
+  <% for (let i = 0; i < results.length; i++) { %>
+  <li>
+    <%= resultkms[i].text %>- <em><%= results[i].user %></em>
+  </li>
+  <% } %>
+</ul>
+<% } else { %>
+<p>No results</p>
+<% } %>
+
+</body>
+</html>

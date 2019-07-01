@@ -1,5 +1,5 @@
 {
-  "name": "login",
+  "name": "tweet",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,11 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "connect": "^3.7.0",
-    "connect-redis": "^3.4.1",
-    "cookie-parser": "^1.4.4",
-    "express-session": "^1.16.2",
-    "morgan": "^1.9.1"
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "superagent": "^5.1.0"
   }
 }
